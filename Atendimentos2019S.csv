@@ -1,0 +1,1258 @@
+﻿Instrumento;Faixa Etária PF;Genero (PF);Escolaridade;Atendimentos;Pessoas Físicas;Pessoas Jurídicas;Eventos;Horas Recebidas
+Consultoria;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;5;5;3;5;14
+Consultoria;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;3;3;2;3;3
+Consultoria;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;158;149;128;158;439
+Consultoria;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;15;15;10;15;16
+Consultoria;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;21;19;18;21;109
+Consultoria;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;31;30;30;31;143
+Consultoria;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;1
+Consultoria;20 a 24 anos;Feminino;Não Informado;29;27;26;29;320
+Consultoria;20 a 24 anos;Feminino;SEM FORMAÇÃO;3;2;2;3;3
+Consultoria;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;8;7;7;8;8
+Consultoria;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;4;4;4
+Consultoria;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;182;175;155;182;779
+Consultoria;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;25;25;22;25;25
+Consultoria;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;22;20;17;22;113
+Consultoria;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;49;43;35;49;784
+Consultoria;20 a 24 anos;Masculino;Não Informado;39;32;30;39;567
+Consultoria;20 a 24 anos;Masculino;SEM FORMAÇÃO;2;2;2;2;2
+Consultoria;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;11;10;8;11;11
+Consultoria;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;5;5;5;5;124
+Consultoria;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;292;275;256;292;879
+Consultoria;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;18;18;13;18;113
+Consultoria;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;90;77;73;90;934
+Consultoria;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;81;67;68;81;487
+Consultoria;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;1;1;1;1;1
+Consultoria;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;17;13;13;17;411
+Consultoria;25 a 29 anos;Feminino;MESTRADO COMPLETO;1;1;1;1;3
+Consultoria;25 a 29 anos;Feminino;Não Encontrado;1;1;1;1;1
+Consultoria;25 a 29 anos;Feminino;Não Informado;72;70;68;72;609
+Consultoria;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;19;18;17;19;77
+Consultoria;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;11;11;10;11;11
+Consultoria;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;327;304;279;327;1.456
+Consultoria;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;41;33;33;41;200
+Consultoria;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;76;66;65;76;1.361
+Consultoria;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;96;87;83;96;1.016
+Consultoria;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;30
+Consultoria;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;5;4;4;5;50
+Consultoria;25 a 29 anos;Masculino;MESTRADO COMPLETO;1;1;1;1;1
+Consultoria;25 a 29 anos;Masculino;Não Encontrado;1;1;1;1;1
+Consultoria;25 a 29 anos;Masculino;Não Informado;79;55;58;79;727
+Consultoria;25 a 29 anos;Masculino;SEM FORMAÇÃO;4;4;4;4;4
+Consultoria;25 a 29 anos;Não Informado;Não Informado;1;1;1;1;1
+Consultoria;30 a 39 anos;Feminino;DOUTORADO COMPLETO;1;1;0;1;5
+Consultoria;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;47;40;37;47;95
+Consultoria;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;34;29;28;34;53
+Consultoria;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;869;792;752;869;3.195
+Consultoria;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;65;61;54;65;297
+Consultoria;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;313;262;250;313;3.337
+Consultoria;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;136;114;112;136;874
+Consultoria;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;16;13;13;16;167
+Consultoria;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;36;29;26;36;533
+Consultoria;30 a 39 anos;Feminino;MESTRADO COMPLETO;6;4;4;6;179
+Consultoria;30 a 39 anos;Feminino;Não Encontrado;1;1;1;1;1
+Consultoria;30 a 39 anos;Feminino;Não Informado;244;205;227;244;1.331
+Consultoria;30 a 39 anos;Feminino;SEM FORMAÇÃO;9;8;8;9;24
+Consultoria;30 a 39 anos;Masculino;DOUTORADO COMPLETO;2;2;1;2;7
+Consultoria;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;78;70;70;78;500
+Consultoria;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;56;53;51;56;388
+Consultoria;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;978;898;890;978;4.332
+Consultoria;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;114;100;98;114;694
+Consultoria;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;299;240;234;299;4.557
+Consultoria;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;149;136;131;149;1.270
+Consultoria;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;11;8;7;11;43
+Consultoria;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;40;28;28;40;5.228
+Consultoria;30 a 39 anos;Masculino;MESTRADO COMPLETO;12;10;7;12;399
+Consultoria;30 a 39 anos;Masculino;Não Encontrado;4;4;4;4;4
+Consultoria;30 a 39 anos;Masculino;Não Informado;279;241;233;279;3.283
+Consultoria;30 a 39 anos;Masculino;SEM FORMAÇÃO;9;9;8;9;93
+Consultoria;30 a 39 anos;Não Informado;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;1
+Consultoria;30 a 39 anos;Não Informado;Não Informado;3;3;3;3;3
+Consultoria;40 a 49 anos;Feminino;DOUTORADO COMPLETO;5;3;3;5;38
+Consultoria;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;63;58;51;63;276
+Consultoria;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;42;42;39;42;175
+Consultoria;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;741;694;685;741;2.593
+Consultoria;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;62;59;58;62;141
+Consultoria;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;212;173;169;212;2.041
+Consultoria;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;74;61;60;74;426
+Consultoria;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;11;8;7;11;16
+Consultoria;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;27;21;20;27;680
+Consultoria;40 a 49 anos;Feminino;MESTRADO COMPLETO;3;3;3;3;3
+Consultoria;40 a 49 anos;Feminino;Não Informado;197;176;162;197;1.088
+Consultoria;40 a 49 anos;Feminino;SEM FORMAÇÃO;7;7;7;7;16
+Consultoria;40 a 49 anos;Masculino;DOUTORADO COMPLETO;2;2;1;2;6
+Consultoria;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;142;125;117;142;696
+Consultoria;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;125;122;115;125;755
+Consultoria;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;846;744;731;846;5.031
+Consultoria;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;132;108;103;132;725
+Consultoria;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;174;140;138;174;3.655
+Consultoria;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;62;55;54;62;583
+Consultoria;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;8;7;5;8;77
+Consultoria;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;18;16;14;18;445
+Consultoria;40 a 49 anos;Masculino;MESTRADO COMPLETO;7;7;5;7;106
+Consultoria;40 a 49 anos;Masculino;Não Informado;270;223;222;270;3.432
+Consultoria;40 a 49 anos;Masculino;SEM FORMAÇÃO;10;7;7;10;55
+Consultoria;40 a 49 anos;Não Informado;ENSINO MÉDIO COMPLETO;1;1;1;1;1
+Consultoria;40 a 49 anos;Não Informado;Não Informado;3;3;2;3;3
+Consultoria;50 a 59 anos;Feminino;DOUTORADO COMPLETO;1;1;1;1;1
+Consultoria;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;65;56;53;65;304
+Consultoria;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;59;54;51;59;119
+Consultoria;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;401;381;368;401;1.711
+Consultoria;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;49;47;43;49;170
+Consultoria;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;132;112;112;132;1.290
+Consultoria;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;34;25;24;34;517
+Consultoria;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;5;5;4;5;52
+Consultoria;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;17;13;13;17;162
+Consultoria;50 a 59 anos;Feminino;MESTRADO COMPLETO;1;1;1;1;3
+Consultoria;50 a 59 anos;Feminino;Não Informado;132;108;105;132;1.178
+Consultoria;50 a 59 anos;Feminino;SEM FORMAÇÃO;7;6;6;7;119
+Consultoria;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;122;101;99;122;536
+Consultoria;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;100;90;83;100;432
+Consultoria;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;472;428;419;472;2.210
+Consultoria;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;82;68;69;82;251
+Consultoria;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;161;119;119;161;2.725
+Consultoria;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;59;52;48;59;409
+Consultoria;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;2;2;1;2;5
+Consultoria;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;16;7;8;16;146
+Consultoria;50 a 59 anos;Masculino;Não Informado;134;114;110;134;1.512
+Consultoria;50 a 59 anos;Masculino;SEM FORMAÇÃO;11;10;9;11;268
+Consultoria;50 a 59 anos;Não Informado;ENSINO MÉDIO COMPLETO;1;1;1;1;1
+Consultoria;50 a 59 anos;Não Informado;ENSINO MÉDIO INCOMPLETO;1;1;1;1;1
+Consultoria;50 a 59 anos;Não Informado;Não Informado;1;1;0;1;1
+Consultoria;60 anos ou mais;Feminino;DOUTORADO COMPLETO;1;1;1;1;85
+Consultoria;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;29;27;25;29;196
+Consultoria;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;15;14;10;15;31
+Consultoria;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;159;140;138;159;669
+Consultoria;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;16;16;12;16;119
+Consultoria;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;68;54;56;68;436
+Consultoria;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;17;16;17;17;56
+Consultoria;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;6;5;5;6;21
+Consultoria;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;6;5;5;6;31
+Consultoria;60 anos ou mais;Feminino;Não Informado;73;50;49;73;840
+Consultoria;60 anos ou mais;Feminino;SEM FORMAÇÃO;2;2;1;2;10
+Consultoria;60 anos ou mais;Masculino;DOUTORADO COMPLETO;1;1;1;1;38
+Consultoria;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;62;57;52;62;564
+Consultoria;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;47;40;37;47;338
+Consultoria;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;234;198;196;234;1.016
+Consultoria;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;27;24;22;27;259
+Consultoria;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;60;55;53;60;726
+Consultoria;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;22;20;20;22;102
+Consultoria;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;3;3;3;3;67
+Consultoria;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;7;6;6;7;44
+Consultoria;60 anos ou mais;Masculino;MESTRADO COMPLETO;1;1;1;1;1
+Consultoria;60 anos ou mais;Masculino;Não Informado;92;74;71;92;1.186
+Consultoria;60 anos ou mais;Masculino;SEM FORMAÇÃO;3;3;3;3;3
+Consultoria;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;1
+Consultoria;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;12;12;10;12;69
+Consultoria;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;1
+Consultoria;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;1
+Consultoria;Até 19 anos;Feminino;Não Informado;4;3;3;4;4
+Consultoria;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;1
+Consultoria;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;2;2;2;2;2
+Consultoria;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;27;27;25;27;272
+Consultoria;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;5;5;2;5;5
+Consultoria;Até 19 anos;Masculino;ENSINO SUPERIOR COMPLETO;1;1;1;1;1
+Consultoria;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;6;5;3;6;6
+Consultoria;Até 19 anos;Masculino;Não Informado;9;7;5;9;71
+Curso;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;7;4;3;7;103
+Curso;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;24
+Curso;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;292;236;64;122;3.946
+Curso;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;17;16;2;14;281
+Curso;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;70;54;17;61;852
+Curso;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;334;199;29;128;3.230
+Curso;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;10;6;1;9;61
+Curso;20 a 24 anos;Feminino;Não Informado;401;281;23;103;2.042
+Curso;20 a 24 anos;Feminino;SEM FORMAÇÃO;10;7;1;9;0
+Curso;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;13;10;4;11;146
+Curso;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;0;3;135
+Curso;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;208;173;48;110;3.174
+Curso;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;32;27;7;28;357
+Curso;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;52;37;11;44;812
+Curso;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;250;191;29;115;3.361
+Curso;20 a 24 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;15
+Curso;20 a 24 anos;Masculino;Não Informado;313;204;14;95;1.483
+Curso;20 a 24 anos;Masculino;SEM FORMAÇÃO;5;5;1;4;51
+Curso;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;2;2;2;2;31
+Curso;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;0;1;4
+Curso;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;247;165;62;128;2.327
+Curso;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;20;15;3;20;375
+Curso;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;154;116;31;111;2.198
+Curso;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;335;165;39;127;1.858
+Curso;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;2;2;0;2;12
+Curso;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;43;36;13;36;718
+Curso;25 a 29 anos;Feminino;MESTRADO COMPLETO;7;6;0;7;69
+Curso;25 a 29 anos;Feminino;Não Informado;288;185;38;109;2.065
+Curso;25 a 29 anos;Feminino;SEM FORMAÇÃO;10;5;0;10;0
+Curso;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;10;6;3;10;63
+Curso;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;3;1;4;65
+Curso;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;190;150;56;116;2.398
+Curso;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;13;13;5;12;197
+Curso;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;173;112;43;114;2.635
+Curso;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;300;167;48;140;2.999
+Curso;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;5;4;3;5;84
+Curso;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;29;17;6;26;378
+Curso;25 a 29 anos;Masculino;MESTRADO COMPLETO;7;2;1;7;67
+Curso;25 a 29 anos;Masculino;Não Informado;275;133;26;106;1.298
+Curso;25 a 29 anos;Masculino;SEM FORMAÇÃO;15;7;2;15;227
+Curso;30 a 39 anos;Feminino;DOUTORADO COMPLETO;7;3;0;7;138
+Curso;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;24;19;10;24;302
+Curso;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;21;15;5;13;280
+Curso;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;353;270;104;163;4.611
+Curso;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;35;20;6;28;226
+Curso;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;351;280;105;169;5.138
+Curso;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;287;170;59;141;2.327
+Curso;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;28;17;4;27;477
+Curso;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;87;69;13;68;1.299
+Curso;30 a 39 anos;Feminino;MESTRADO COMPLETO;5;4;2;5;61
+Curso;30 a 39 anos;Feminino;Não Informado;336;216;40;118;2.148
+Curso;30 a 39 anos;Feminino;SEM FORMAÇÃO;34;15;6;30;144
+Curso;30 a 39 anos;Masculino;DOUTORADO COMPLETO;2;2;0;2;24
+Curso;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;17;16;7;17;323
+Curso;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;16;11;5;16;303
+Curso;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;342;254;115;187;4.687
+Curso;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;32;25;9;29;306
+Curso;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;305;215;73;173;4.313
+Curso;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;186;146;36;123;1.995
+Curso;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;16;13;4;15;193
+Curso;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;83;46;19;60;1.307
+Curso;30 a 39 anos;Masculino;MESTRADO COMPLETO;25;11;3;19;391
+Curso;30 a 39 anos;Masculino;Não Informado;303;189;48;132;2.428
+Curso;30 a 39 anos;Masculino;SEM FORMAÇÃO;23;13;9;21;196
+Curso;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;14;12;8;14;190
+Curso;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;8;7;2;7;117
+Curso;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;159;131;52;105;2.186
+Curso;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;17;14;10;17;239
+Curso;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;169;145;66;110;2.939
+Curso;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;52;30;10;44;434
+Curso;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;6;6;2;6;99
+Curso;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;59;53;17;42;939
+Curso;40 a 49 anos;Feminino;MESTRADO COMPLETO;12;8;2;12;213
+Curso;40 a 49 anos;Feminino;Não Informado;154;90;17;94;1.483
+Curso;40 a 49 anos;Feminino;SEM FORMAÇÃO;8;4;2;8;60
+Curso;40 a 49 anos;Masculino;DOUTORADO COMPLETO;15;2;1;15;144
+Curso;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;20;17;14;14;294
+Curso;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;13;13;9;13;272
+Curso;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;171;128;49;117;2.493
+Curso;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;5;4;2;5;84
+Curso;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;140;98;42;92;1.946
+Curso;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;75;48;14;57;652
+Curso;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;11;9;4;11;209
+Curso;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;44;29;11;39;687
+Curso;40 a 49 anos;Masculino;MESTRADO COMPLETO;28;12;3;20;383
+Curso;40 a 49 anos;Masculino;Não Informado;124;70;14;75;885
+Curso;40 a 49 anos;Masculino;SEM FORMAÇÃO;8;6;2;7;24
+Curso;50 a 59 anos;Feminino;DOUTORADO COMPLETO;1;1;0;1;12
+Curso;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;5;5;3;5;72
+Curso;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;9;6;1;5;117
+Curso;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;55;54;20;42;1.141
+Curso;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;5;5;2;5;71
+Curso;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;99;61;23;72;983
+Curso;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;20;16;7;19;123
+Curso;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;3;3;1;3;63
+Curso;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;16;14;4;16;294
+Curso;50 a 59 anos;Feminino;MESTRADO COMPLETO;4;4;1;3;84
+Curso;50 a 59 anos;Feminino;Não Informado;36;32;9;24;812
+Curso;50 a 59 anos;Feminino;SEM FORMAÇÃO;3;2;1;3;42
+Curso;50 a 59 anos;Masculino;DOUTORADO COMPLETO;2;2;1;2;29
+Curso;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;4;3;2;4;78
+Curso;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;15;8;7;6;219
+Curso;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;55;47;26;47;862
+Curso;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;4;4;1;4;47
+Curso;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;64;45;20;54;755
+Curso;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;10;10;3;9;97
+Curso;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;1;1;0;1;0
+Curso;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;19;10;3;19;301
+Curso;50 a 59 anos;Masculino;MESTRADO COMPLETO;2;2;1;2;80
+Curso;50 a 59 anos;Masculino;Não Informado;46;25;7;31;330
+Curso;50 a 59 anos;Masculino;SEM FORMAÇÃO;12;6;3;9;57
+Curso;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;3;3;0;2;36
+Curso;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;6;5;1;5;99
+Curso;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;22;19;3;17;483
+Curso;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;0;1;12
+Curso;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;28;23;9;25;468
+Curso;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;16
+Curso;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;2;1;1;2;33
+Curso;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;3;3;3;84
+Curso;60 anos ou mais;Feminino;MESTRADO COMPLETO;1;1;0;1;15
+Curso;60 anos ou mais;Feminino;Não Informado;10;9;2;9;245
+Curso;60 anos ou mais;Masculino;DOUTORADO COMPLETO;1;1;0;1;12
+Curso;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;8;8;3;8;124
+Curso;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;9
+Curso;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;16;15;9;16;348
+Curso;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;2;2;0;2;28
+Curso;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;9;7;4;8;257
+Curso;60 anos ou mais;Masculino;MESTRADO COMPLETO;4;4;3;4;121
+Curso;60 anos ou mais;Masculino;Não Informado;11;9;4;10;205
+Curso;60 anos ou mais;Masculino;SEM FORMAÇÃO;5;4;1;5;70
+Curso;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;6;4;0;6;40
+Curso;Até 19 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;4;3;0;4;76
+Curso;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;69;59;12;37;1.374
+Curso;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;29;27;3;22;285
+Curso;Até 19 anos;Feminino;ENSINO SUPERIOR COMPLETO;3;3;1;3;27
+Curso;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;33;29;3;15;352
+Curso;Até 19 anos;Feminino;Não Informado;226;149;7;51;918
+Curso;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;3;3;1;3;84
+Curso;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;3;3;0;3;40
+Curso;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;69;60;11;44;1.058
+Curso;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;38;30;3;24;472
+Curso;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;23;17;2;19;240
+Curso;Até 19 anos;Masculino;Não Informado;194;141;3;55;1.582
+Curso;Até 19 anos;Masculino;SEM FORMAÇÃO;2;1;0;2;0
+Curso;Não Informado;Não Encontrado;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;0
+Curso;Não Informado;Não Encontrado;Não se Aplica;165;1;0;1;124.495
+Feira;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;11;6;6;6;0
+Feira;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Feira;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;3;1;0;1;0
+Feira;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;2;2;2;2;0
+Feira;20 a 24 anos;Feminino;Não Informado;8;5;4;5;0
+Feira;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;13;5;4;4;0
+Feira;20 a 24 anos;Masculino;Não Informado;5;2;1;2;0
+Feira;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Feira;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;14;8;7;6;0
+Feira;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;0;1;0
+Feira;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;15;7;6;4;0
+Feira;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;5;3;2;3;0
+Feira;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;6;2;1;1;0
+Feira;25 a 29 anos;Feminino;Não Informado;10;7;6;7;0
+Feira;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;15;12;12;10;0
+Feira;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;26;12;10;6;0
+Feira;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;12;6;5;4;0
+Feira;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;0
+Feira;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;4;2;2;2;0
+Feira;25 a 29 anos;Masculino;Não Informado;15;11;10;9;0
+Feira;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Feira;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;29;18;18;12;0
+Feira;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;8;5;5;5;0
+Feira;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;49;26;23;12;0
+Feira;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;21;13;11;9;0
+Feira;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;8;4;4;3;0
+Feira;30 a 39 anos;Feminino;MESTRADO COMPLETO;3;1;1;1;0
+Feira;30 a 39 anos;Feminino;Não Informado;21;17;16;11;0
+Feira;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Feira;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;44;28;28;15;0
+Feira;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;46;39;39;20;0
+Feira;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;27;21;20;10;0
+Feira;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;2;2;2;2;0
+Feira;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;9;7;7;6;0
+Feira;30 a 39 anos;Masculino;MESTRADO COMPLETO;7;4;4;5;0
+Feira;30 a 39 anos;Masculino;Não Informado;40;29;31;14;0
+Feira;30 a 39 anos;Masculino;SEM FORMAÇÃO;1;1;1;1;0
+Feira;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;3;3;2;3;0
+Feira;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;3;3;3;2;0
+Feira;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;42;21;16;11;0
+Feira;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;0;1;0
+Feira;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;19;11;10;7;0
+Feira;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;9;7;5;5;0
+Feira;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;8;5;5;6;0
+Feira;40 a 49 anos;Feminino;MESTRADO COMPLETO;3;1;1;1;0
+Feira;40 a 49 anos;Feminino;Não Informado;22;12;13;17;0
+Feira;40 a 49 anos;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Feira;40 a 49 anos;Masculino;DOUTORADO COMPLETO;1;1;1;1;0
+Feira;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;3;3;3;3;0
+Feira;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Feira;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;36;33;33;17;0
+Feira;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;2;2;2;2;0
+Feira;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;29;23;25;12;0
+Feira;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;9;8;8;7;0
+Feira;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;2;2;2;2;0
+Feira;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;10;6;5;4;0
+Feira;40 a 49 anos;Masculino;Não Informado;40;31;31;15;0
+Feira;50 a 59 anos;Feminino;DOUTORADO COMPLETO;3;1;0;1;0
+Feira;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;2;2;2;2;0
+Feira;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Feira;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;25;15;13;8;0
+Feira;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Feira;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;26;14;10;7;0
+Feira;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;9;3;2;1;0
+Feira;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;4;2;2;2;0
+Feira;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;0
+Feira;50 a 59 anos;Feminino;Não Informado;15;7;4;4;0
+Feira;50 a 59 anos;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Feira;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;4;4;4;4;0
+Feira;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;3;2;2;3;0
+Feira;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;29;20;18;16;0
+Feira;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;2;2;2;2;0
+Feira;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;25;17;16;12;0
+Feira;50 a 59 anos;Masculino;Não Informado;20;15;15;10;0
+Feira;50 a 59 anos;Masculino;SEM FORMAÇÃO;2;2;2;2;0
+Feira;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;3;1;0;1;0
+Feira;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;2;2;0;1;0
+Feira;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;24;10;6;4;0
+Feira;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;14;6;4;3;0
+Feira;60 anos ou mais;Feminino;MESTRADO COMPLETO;1;1;1;1;0
+Feira;60 anos ou mais;Feminino;Não Informado;9;5;3;4;0
+Feira;60 anos ou mais;Feminino;SEM FORMAÇÃO;1;1;0;1;0
+Feira;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;2;2;2;0
+Feira;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;6;4;5;5;0
+Feira;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;13;7;6;11;0
+Feira;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;2;2;2;2;0
+Feira;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;12;10;10;9;0
+Feira;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;1;1;1;1;0
+Feira;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;2;2;2;1;0
+Feira;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;0
+Feira;60 anos ou mais;Masculino;Não Informado;14;14;13;10;0
+Feira;60 anos ou mais;Masculino;SEM FORMAÇÃO;1;1;1;1;0
+Feira;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;2;1;1;2;0
+Feira;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;1;1;1;1;0
+Feira;Até 19 anos;Masculino;Não Informado;3;1;1;1;0
+Missão/caravana;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Missão/caravana;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;28;16;14;14;0
+Missão/caravana;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;11;10;8;9;0
+Missão/caravana;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;23;22;7;12;0
+Missão/caravana;20 a 24 anos;Feminino;Não Informado;9;8;4;7;0
+Missão/caravana;20 a 24 anos;Feminino;SEM FORMAÇÃO;2;2;1;2;0
+Missão/caravana;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Missão/caravana;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;39;25;18;21;0
+Missão/caravana;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;6;4;3;6;0
+Missão/caravana;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;23;23;5;9;0
+Missão/caravana;20 a 24 anos;Masculino;Não Informado;14;13;7;10;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;2;2;0;2;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;55;37;31;28;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;6;6;3;6;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;23;21;18;23;0
+Missão/caravana;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;9;8;3;8;0
+Missão/caravana;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;1;1;0;1;0
+Missão/caravana;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;2;2;2;2;0
+Missão/caravana;25 a 29 anos;Feminino;Não Informado;20;14;8;11;0
+Missão/caravana;25 a 29 anos;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Missão/caravana;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;2;2;1;2;0
+Missão/caravana;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;82;39;27;32;0
+Missão/caravana;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;4;2;3;4;0
+Missão/caravana;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;36;24;19;18;0
+Missão/caravana;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;34;29;19;27;0
+Missão/caravana;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;0
+Missão/caravana;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;3;3;3;0
+Missão/caravana;25 a 29 anos;Masculino;Não Informado;20;19;18;13;0
+Missão/caravana;25 a 29 anos;Masculino;SEM FORMAÇÃO;2;2;2;2;0
+Missão/caravana;30 a 39 anos;Feminino;DOUTORADO COMPLETO;3;3;2;3;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;10;10;7;8;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;16;9;9;13;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;146;109;89;53;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;21;8;8;9;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;70;53;44;42;0
+Missão/caravana;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;46;20;19;21;0
+Missão/caravana;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;5;5;4;5;0
+Missão/caravana;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;22;22;13;14;0
+Missão/caravana;30 a 39 anos;Feminino;MESTRADO COMPLETO;10;3;3;3;0
+Missão/caravana;30 a 39 anos;Feminino;Não Informado;47;41;31;27;0
+Missão/caravana;30 a 39 anos;Feminino;SEM FORMAÇÃO;7;7;7;6;0
+Missão/caravana;30 a 39 anos;Masculino;DOUTORADO COMPLETO;1;1;1;1;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;1;1;2;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;3;3;3;3;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;168;73;58;38;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;7;6;6;7;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;80;48;39;39;0
+Missão/caravana;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;38;19;14;18;0
+Missão/caravana;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;5;5;5;5;0
+Missão/caravana;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;13;13;12;11;0
+Missão/caravana;30 a 39 anos;Masculino;MESTRADO COMPLETO;3;3;3;3;0
+Missão/caravana;30 a 39 anos;Masculino;Não Informado;36;34;26;27;0
+Missão/caravana;30 a 39 anos;Masculino;SEM FORMAÇÃO;2;2;2;2;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;9;9;9;8;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;6;6;5;6;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;211;96;85;50;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;9;7;7;9;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;90;55;44;38;0
+Missão/caravana;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;25;15;13;13;0
+Missão/caravana;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;31;12;11;11;0
+Missão/caravana;40 a 49 anos;Feminino;MESTRADO COMPLETO;3;3;3;3;0
+Missão/caravana;40 a 49 anos;Feminino;Não Informado;59;32;32;32;0
+Missão/caravana;40 a 49 anos;Feminino;SEM FORMAÇÃO;3;3;2;3;0
+Missão/caravana;40 a 49 anos;Masculino;DOUTORADO COMPLETO;1;1;0;1;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;8;7;7;8;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;3;4;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;136;63;57;34;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;15;9;8;9;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;34;32;28;26;0
+Missão/caravana;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;14;8;7;8;0
+Missão/caravana;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;6;5;5;5;0
+Missão/caravana;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;29;17;16;19;0
+Missão/caravana;40 a 49 anos;Masculino;MESTRADO COMPLETO;4;4;4;4;0
+Missão/caravana;40 a 49 anos;Masculino;Não Informado;59;35;31;29;0
+Missão/caravana;40 a 49 anos;Masculino;SEM FORMAÇÃO;8;6;6;5;0
+Missão/caravana;50 a 59 anos;Feminino;DOUTORADO COMPLETO;1;1;0;1;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;5;5;4;4;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;4;4;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;142;44;36;31;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;3;3;2;3;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;52;30;24;26;0
+Missão/caravana;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;10;7;5;8;0
+Missão/caravana;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;5;5;4;4;0
+Missão/caravana;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;3;3;3;0
+Missão/caravana;50 a 59 anos;Feminino;MESTRADO COMPLETO;2;2;1;2;0
+Missão/caravana;50 a 59 anos;Feminino;Não Informado;36;23;20;20;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;4;3;3;4;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;17;5;5;6;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;74;36;35;31;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;13;6;4;5;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;55;26;24;19;0
+Missão/caravana;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;4;3;3;3;0
+Missão/caravana;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;0
+Missão/caravana;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;2;2;2;2;0
+Missão/caravana;50 a 59 anos;Masculino;MESTRADO COMPLETO;14;2;2;3;0
+Missão/caravana;50 a 59 anos;Masculino;Não Informado;38;19;18;16;0
+Missão/caravana;50 a 59 anos;Masculino;SEM FORMAÇÃO;4;3;3;4;0
+Missão/caravana;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;18;5;4;7;0
+Missão/caravana;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;49;17;14;19;0
+Missão/caravana;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;21;16;14;13;0
+Missão/caravana;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;2;2;2;2;0
+Missão/caravana;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Feminino;Não Informado;6;6;3;5;0
+Missão/caravana;60 anos ou mais;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;1;1;2;0
+Missão/caravana;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;14;6;7;9;0
+Missão/caravana;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;31;17;17;14;0
+Missão/caravana;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Masculino;MESTRADO COMPLETO;1;1;1;1;0
+Missão/caravana;60 anos ou mais;Masculino;Não Informado;17;9;8;8;0
+Missão/caravana;60 anos ou mais;Masculino;SEM FORMAÇÃO;2;2;1;1;0
+Missão/caravana;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;20;8;4;7;0
+Missão/caravana;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;15;3;2;4;0
+Missão/caravana;Até 19 anos;Feminino;Não Informado;11;11;8;6;0
+Missão/caravana;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;5;5;1;5;0
+Missão/caravana;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;2;2;0;1;0
+Missão/caravana;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;1;1;1;1;0
+Missão/caravana;Até 19 anos;Masculino;Não Informado;11;11;11;7;0
+Não Encontrado;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;2;2;0;1;0
+Não Encontrado;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;1;1;0;1;0
+Não Encontrado;20 a 24 anos;Masculino;Não Informado;1;1;1;1;0
+Não Encontrado;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;3;3;2;1;0
+Não Encontrado;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;4;4;1;1;0
+Não Encontrado;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;0;1;0
+Não Encontrado;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;5;5;4;1;0
+Não Encontrado;30 a 39 anos;Masculino;DOUTORADO COMPLETO;1;1;1;1;0
+Não Encontrado;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;8;5;4;4;0
+Não Encontrado;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;2;2;1;2;0
+Não Encontrado;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;2;1;1;2;0
+Não Encontrado;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;1;1;0;1;0
+Não Encontrado;30 a 39 anos;Masculino;Não Informado;3;2;2;3;0
+Não Encontrado;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;1;1;1;1;0
+Não Encontrado;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;0;1;0
+Não Encontrado;40 a 49 anos;Feminino;Não Informado;1;1;1;1;0
+Não Encontrado;40 a 49 anos;Masculino;DOUTORADO COMPLETO;1;1;1;1;0
+Não Encontrado;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;1;1;2;0
+Não Encontrado;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;3;2;1;3;0
+Não Encontrado;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;3;2;2;3;0
+Não Encontrado;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;3;2;1;3;0
+Não Encontrado;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;0
+Não Encontrado;40 a 49 anos;Masculino;MESTRADO COMPLETO;1;1;1;1;0
+Não Encontrado;40 a 49 anos;Masculino;Não Informado;2;1;0;2;0
+Não Encontrado;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;1;1;1;1;0
+Não Encontrado;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;0;1;0
+Não Encontrado;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;2;1;0;2;0
+Não Encontrado;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;1;1;1;1;0
+Não Encontrado;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;2;2;1;1;0
+Não Encontrado;50 a 59 anos;Masculino;Não Informado;1;1;1;1;0
+Não Encontrado;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;1;1;0;1;0
+Não Encontrado;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;1;1;1;1;0
+Não Encontrado;60 anos ou mais;Masculino;Não Informado;1;1;1;1;0
+Não Encontrado;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;2;2;0;1;0
+Oficina;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;7;6;0;7;22
+Oficina;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;0;4;12
+Oficina;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;276;222;56;151;1.203
+Oficina;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;28;26;3;27;124
+Oficina;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;67;53;16;52;352
+Oficina;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;644;504;22;154;2.207
+Oficina;20 a 24 anos;Feminino;ESPECIALIZAÇÃO;1;1;1;1;4
+Oficina;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;6;4;1;5;18
+Oficina;20 a 24 anos;Feminino;Não Informado;112;99;12;70;461
+Oficina;20 a 24 anos;Feminino;SEM FORMAÇÃO;5;5;0;5;29
+Oficina;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;4;3;3;4;22
+Oficina;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;5;2;1;5;20
+Oficina;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;255;216;47;138;1.269
+Oficina;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;42;39;5;34;203
+Oficina;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;54;43;9;49;219
+Oficina;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;488;376;24;170;1.794
+Oficina;20 a 24 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;0;1;4
+Oficina;20 a 24 anos;Masculino;Não Informado;72;62;6;47;312
+Oficina;20 a 24 anos;Masculino;SEM FORMAÇÃO;1;1;0;1;4
+Oficina;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;7;7;3;7;34
+Oficina;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;1;4;32
+Oficina;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;251;208;71;155;1.140
+Oficina;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;21;20;4;20;85
+Oficina;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;190;151;39;113;819
+Oficina;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;201;172;20;141;849
+Oficina;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;6;3;1;6;22
+Oficina;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;42;31;12;38;202
+Oficina;25 a 29 anos;Feminino;MESTRADO COMPLETO;12;10;4;10;44
+Oficina;25 a 29 anos;Feminino;Não Informado;91;87;24;68;412
+Oficina;25 a 29 anos;Feminino;SEM FORMAÇÃO;6;4;1;6;21
+Oficina;25 a 29 anos;Masculino;DOUTORADO COMPLETO;1;1;0;1;2
+Oficina;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;10;10;5;8;50
+Oficina;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;1;4;17
+Oficina;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;198;169;51;118;1.073
+Oficina;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;19;18;4;16;111
+Oficina;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;132;106;37;89;614
+Oficina;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;271;192;33;165;1.062
+Oficina;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;1;1;1;1;4
+Oficina;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;15;12;2;13;49
+Oficina;25 a 29 anos;Masculino;MESTRADO COMPLETO;7;7;0;5;24
+Oficina;25 a 29 anos;Masculino;Não Informado;66;53;17;50;252
+Oficina;25 a 29 anos;Masculino;SEM FORMAÇÃO;2;2;1;2;12
+Oficina;30 a 39 anos;Feminino;DOUTORADO COMPLETO;10;6;1;10;45
+Oficina;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;28;26;8;24;143
+Oficina;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;40;24;6;20;170
+Oficina;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;553;470;187;221;2.626
+Oficina;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;47;40;10;39;190
+Oficina;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;420;346;108;194;1.748
+Oficina;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;209;176;46;148;875
+Oficina;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;18;15;4;16;100
+Oficina;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;85;75;25;65;431
+Oficina;30 a 39 anos;Feminino;MESTRADO COMPLETO;34;26;3;24;153
+Oficina;30 a 39 anos;Feminino;Não Informado;174;150;41;103;751
+Oficina;30 a 39 anos;Feminino;SEM FORMAÇÃO;10;8;3;10;34
+Oficina;30 a 39 anos;Masculino;DOUTORADO COMPLETO;13;10;1;11;39
+Oficina;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;23;23;10;21;132
+Oficina;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;20;15;7;17;106
+Oficina;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;416;339;155;206;1.939
+Oficina;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;36;31;15;33;202
+Oficina;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;250;217;80;143;1.176
+Oficina;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;215;171;45;147;925
+Oficina;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;13;12;1;12;67
+Oficina;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;57;44;14;44;248
+Oficina;30 a 39 anos;Masculino;MESTRADO COMPLETO;26;22;2;12;94
+Oficina;30 a 39 anos;Masculino;Não Informado;132;116;33;87;580
+Oficina;30 a 39 anos;Masculino;SEM FORMAÇÃO;14;12;4;13;61
+Oficina;40 a 49 anos;Feminino;DOUTORADO COMPLETO;12;11;0;11;46
+Oficina;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;29;28;4;20;170
+Oficina;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;22;19;7;16;112
+Oficina;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;335;283;111;173;1.707
+Oficina;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;23;22;11;23;130
+Oficina;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;203;179;49;133;914
+Oficina;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;70;64;16;57;395
+Oficina;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;7;7;2;7;31
+Oficina;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;65;54;19;49;303
+Oficina;40 a 49 anos;Feminino;MESTRADO COMPLETO;17;15;4;14;81
+Oficina;40 a 49 anos;Feminino;Não Informado;132;109;37;89;624
+Oficina;40 a 49 anos;Feminino;SEM FORMAÇÃO;7;7;0;7;44
+Oficina;40 a 49 anos;Masculino;DOUTORADO COMPLETO;7;6;0;4;21
+Oficina;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;21;20;11;19;113
+Oficina;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;16;13;6;16;84
+Oficina;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;206;178;75;114;1.035
+Oficina;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;14;12;7;14;52
+Oficina;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;153;130;40;94;709
+Oficina;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;60;51;17;51;260
+Oficina;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;4;4;2;4;27
+Oficina;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;46;37;14;36;214
+Oficina;40 a 49 anos;Masculino;MESTRADO COMPLETO;20;16;3;18;74
+Oficina;40 a 49 anos;Masculino;Não Encontrado;1;1;0;1;3
+Oficina;40 a 49 anos;Masculino;Não Informado;78;64;32;57;301
+Oficina;40 a 49 anos;Masculino;SEM FORMAÇÃO;9;8;3;7;69
+Oficina;50 a 59 anos;Feminino;DOUTORADO COMPLETO;6;6;0;6;28
+Oficina;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;15;14;4;13;68
+Oficina;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;22;13;1;11;103
+Oficina;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;139;115;51;98;730
+Oficina;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;21;15;5;19;102
+Oficina;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;125;98;36;88;565
+Oficina;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;20;18;6;20;104
+Oficina;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;6;4;2;6;28
+Oficina;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;30;20;9;23;120
+Oficina;50 a 59 anos;Feminino;MESTRADO COMPLETO;3;2;0;3;10
+Oficina;50 a 59 anos;Feminino;Não Informado;41;36;11;35;208
+Oficina;50 a 59 anos;Feminino;SEM FORMAÇÃO;7;7;3;7;39
+Oficina;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;18;16;8;12;75
+Oficina;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;17;13;7;10;75
+Oficina;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;110;91;40;85;538
+Oficina;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;10;10;4;7;47
+Oficina;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;71;58;23;54;354
+Oficina;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;21;20;5;20;113
+Oficina;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;2;2;1;2;12
+Oficina;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;12;9;3;12;58
+Oficina;50 a 59 anos;Masculino;MESTRADO COMPLETO;2;2;0;2;5
+Oficina;50 a 59 anos;Masculino;Não Informado;47;40;14;33;229
+Oficina;50 a 59 anos;Masculino;SEM FORMAÇÃO;8;7;3;8;38
+Oficina;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;7;6;1;5;39
+Oficina;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;10;6;3;9;35
+Oficina;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;52;35;13;42;230
+Oficina;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;2;2;0;2;16
+Oficina;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;40;35;12;28;166
+Oficina;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;9;9;2;8;59
+Oficina;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;2;2;0;2;8
+Oficina;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;6;6;0;6;23
+Oficina;60 anos ou mais;Feminino;Não Informado;32;29;10;20;155
+Oficina;60 anos ou mais;Feminino;SEM FORMAÇÃO;5;4;2;5;19
+Oficina;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;2;0;2;5
+Oficina;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;4;4;2;4;13
+Oficina;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;43;37;13;33;224
+Oficina;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;1;1;0;1;15
+Oficina;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;42;38;9;31;188
+Oficina;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;8;7;2;8;59
+Oficina;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;17;13;3;17;80
+Oficina;60 anos ou mais;Masculino;MESTRADO COMPLETO;3;3;0;3;14
+Oficina;60 anos ou mais;Masculino;Não Informado;33;25;8;23;125
+Oficina;60 anos ou mais;Masculino;SEM FORMAÇÃO;1;1;0;1;3
+Oficina;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;4;4;1;3;15
+Oficina;Até 19 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;7;4;0;6;26
+Oficina;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;84;66;10;53;361
+Oficina;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;43;41;4;28;285
+Oficina;Até 19 anos;Feminino;ENSINO SUPERIOR COMPLETO;12;10;0;7;42
+Oficina;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;188;155;0;62;639
+Oficina;Até 19 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;0;1;3
+Oficina;Até 19 anos;Feminino;Não Informado;35;32;3;25;145
+Oficina;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;2;2;1;2;5
+Oficina;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;6;6;0;5;67
+Oficina;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;76;61;15;42;398
+Oficina;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;36;32;2;32;226
+Oficina;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;155;120;1;61;507
+Oficina;Até 19 anos;Masculino;Não Informado;26;24;2;16;114
+Oficina;Até 19 anos;Masculino;SEM FORMAÇÃO;1;1;0;1;4
+Oficina;Não Informado;Não Encontrado;Não se Aplica;12;1;0;1;114
+Orientaçao;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;43;34;11;42;0
+Orientaçao;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;32;28;8;31;0
+Orientaçao;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;969;751;324;901;0
+Orientaçao;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;115;90;28;111;0
+Orientaçao;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;183;146;43;175;0
+Orientaçao;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;669;493;112;576;0
+Orientaçao;20 a 24 anos;Feminino;ESPECIALIZAÇÃO;1;1;1;1;0
+Orientaçao;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;18;15;3;17;0
+Orientaçao;20 a 24 anos;Feminino;MESTRADO COMPLETO;1;1;1;1;0
+Orientaçao;20 a 24 anos;Feminino;Não Informado;870;706;157;537;0
+Orientaçao;20 a 24 anos;Feminino;SEM FORMAÇÃO;32;22;5;28;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;55;44;22;55;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;25;22;11;25;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;1.005;808;374;969;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;145;121;47;143;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;166;117;53;165;0
+Orientaçao;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;565;417;122;530;0
+Orientaçao;20 a 24 anos;Masculino;ESPECIALIZAÇÃO;2;2;1;2;0
+Orientaçao;20 a 24 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;9;7;1;9;0
+Orientaçao;20 a 24 anos;Masculino;Não Informado;733;554;169;553;0
+Orientaçao;20 a 24 anos;Masculino;SEM FORMAÇÃO;27;20;10;26;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;74;57;21;74;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;51;39;16;49;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;1.424;1.110;607;1.360;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;134;111;49;132;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;645;479;198;583;0
+Orientaçao;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;650;481;203;535;0
+Orientaçao;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;29;12;5;29;0
+Orientaçao;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;102;76;33;96;0
+Orientaçao;25 a 29 anos;Feminino;MESTRADO COMPLETO;19;12;2;17;0
+Orientaçao;25 a 29 anos;Feminino;Não Encontrado;2;2;1;2;0
+Orientaçao;25 a 29 anos;Feminino;Não Informado;968;728;236;699;0
+Orientaçao;25 a 29 anos;Feminino;SEM FORMAÇÃO;41;34;15;37;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;133;100;55;133;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;52;45;21;52;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;1.533;1.184;683;1.487;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;210;155;96;205;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;502;364;181;475;0
+Orientaçao;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;798;565;285;713;0
+Orientaçao;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;9;7;5;9;0
+Orientaçao;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;55;35;22;55;0
+Orientaçao;25 a 29 anos;Masculino;MESTRADO COMPLETO;12;9;4;12;0
+Orientaçao;25 a 29 anos;Masculino;Não Encontrado;1;1;1;1;0
+Orientaçao;25 a 29 anos;Masculino;Não Informado;775;613;280;610;0
+Orientaçao;25 a 29 anos;Masculino;SEM FORMAÇÃO;29;26;19;29;0
+Orientaçao;25 a 29 anos;Não Informado;Não Informado;1;1;1;1;0
+Orientaçao;30 a 39 anos;Feminino;DOUTORADO COMPLETO;13;9;0;13;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;281;226;114;280;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;195;143;77;195;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;3.524;2.697;1.641;3.392;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;349;247;138;346;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;1.642;1.199;615;1.517;0
+Orientaçao;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;934;681;318;811;0
+Orientaçao;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;62;50;20;59;0
+Orientaçao;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;280;201;93;254;0
+Orientaçao;30 a 39 anos;Feminino;MESTRADO COMPLETO;51;36;10;48;0
+Orientaçao;30 a 39 anos;Feminino;Não Encontrado;1;1;1;1;0
+Orientaçao;30 a 39 anos;Feminino;Não Informado;1.711;1.310;646;1.464;0
+Orientaçao;30 a 39 anos;Feminino;SEM FORMAÇÃO;99;60;27;91;0
+Orientaçao;30 a 39 anos;Masculino;DOUTORADO COMPLETO;17;9;3;16;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;440;321;194;439;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;337;264;165;336;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;3.863;2.952;1.943;3.763;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;416;327;223;413;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;1.269;917;537;1.224;0
+Orientaçao;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;1.003;752;414;914;0
+Orientaçao;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;59;37;20;59;0
+Orientaçao;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;201;147;79;192;0
+Orientaçao;30 a 39 anos;Masculino;MESTRADO COMPLETO;51;42;20;50;0
+Orientaçao;30 a 39 anos;Masculino;Não Encontrado;4;4;4;4;0
+Orientaçao;30 a 39 anos;Masculino;Não Informado;1.600;1.221;722;1.443;0
+Orientaçao;30 a 39 anos;Masculino;SEM FORMAÇÃO;86;61;38;85;0
+Orientaçao;30 a 39 anos;Não Informado;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;0
+Orientaçao;30 a 39 anos;Não Informado;Não Informado;6;5;5;6;0
+Orientaçao;40 a 49 anos;Feminino;DOUTORADO COMPLETO;6;4;3;6;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;292;244;143;292;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;245;190;119;245;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;2.625;2.023;1.381;2.588;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;254;200;129;254;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;981;741;394;917;0
+Orientaçao;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;341;252;156;328;0
+Orientaçao;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;50;36;18;50;0
+Orientaçao;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;177;127;63;171;0
+Orientaçao;40 a 49 anos;Feminino;MESTRADO COMPLETO;25;20;8;25;0
+Orientaçao;40 a 49 anos;Feminino;Não Informado;1.012;779;435;945;0
+Orientaçao;40 a 49 anos;Feminino;SEM FORMAÇÃO;48;35;27;46;0
+Orientaçao;40 a 49 anos;Masculino;DOUTORADO COMPLETO;17;13;5;17;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;616;449;306;615;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;517;405;281;517;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;2.946;2.162;1.558;2.915;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;336;265;204;336;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;792;582;365;771;0
+Orientaçao;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;354;261;159;341;0
+Orientaçao;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;36;27;13;34;0
+Orientaçao;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;137;88;43;134;0
+Orientaçao;40 a 49 anos;Masculino;MESTRADO COMPLETO;22;16;5;22;0
+Orientaçao;40 a 49 anos;Masculino;Não Informado;1.039;819;553;999;0
+Orientaçao;40 a 49 anos;Masculino;SEM FORMAÇÃO;56;45;29;56;0
+Orientaçao;40 a 49 anos;Não Informado;ENSINO MÉDIO COMPLETO;2;2;2;2;0
+Orientaçao;40 a 49 anos;Não Informado;Não Informado;3;3;2;3;0
+Orientaçao;50 a 59 anos;Feminino;DOUTORADO COMPLETO;6;5;1;6;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;236;188;114;236;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;226;171;124;226;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;1.415;1.092;761;1.412;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;175;126;88;175;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;621;473;247;600;0
+Orientaçao;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;143;101;59;141;0
+Orientaçao;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;29;20;7;29;0
+Orientaçao;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;96;58;29;94;0
+Orientaçao;50 a 59 anos;Feminino;MESTRADO COMPLETO;12;6;4;12;0
+Orientaçao;50 a 59 anos;Feminino;Não Informado;571;459;270;557;0
+Orientaçao;50 a 59 anos;Feminino;SEM FORMAÇÃO;37;22;14;37;0
+Orientaçao;50 a 59 anos;Masculino;DOUTORADO COMPLETO;1;1;0;1;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;396;317;227;396;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;351;283;203;351;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;1.608;1.269;913;1.604;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;197;157;122;197;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;527;379;254;522;0
+Orientaçao;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;205;142;89;204;0
+Orientaçao;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;12;10;4;12;0
+Orientaçao;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;49;34;18;49;0
+Orientaçao;50 a 59 anos;Masculino;MESTRADO COMPLETO;9;9;2;9;0
+Orientaçao;50 a 59 anos;Masculino;Não Informado;621;464;313;608;0
+Orientaçao;50 a 59 anos;Masculino;SEM FORMAÇÃO;66;42;32;65;0
+Orientaçao;50 a 59 anos;Não Informado;ENSINO MÉDIO COMPLETO;1;1;1;1;0
+Orientaçao;50 a 59 anos;Não Informado;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Orientaçao;50 a 59 anos;Não Informado;Não Informado;1;1;0;1;0
+Orientaçao;60 anos ou mais;Feminino;DOUTORADO COMPLETO;3;3;0;3;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;84;71;36;84;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;77;67;33;77;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;441;360;246;441;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;64;48;34;64;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;207;167;97;207;0
+Orientaçao;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;40;32;24;40;0
+Orientaçao;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;11;7;7;11;0
+Orientaçao;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;26;15;10;26;0
+Orientaçao;60 anos ou mais;Feminino;MESTRADO COMPLETO;4;3;0;4;0
+Orientaçao;60 anos ou mais;Feminino;Não Informado;182;158;94;182;0
+Orientaçao;60 anos ou mais;Feminino;SEM FORMAÇÃO;9;9;1;9;0
+Orientaçao;60 anos ou mais;Masculino;DOUTORADO COMPLETO;4;4;2;4;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;158;126;91;158;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;142;113;81;142;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;614;485;340;614;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;83;59;50;83;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;288;214;121;287;0
+Orientaçao;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;59;45;30;59;0
+Orientaçao;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;7;6;2;7;0
+Orientaçao;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;26;17;9;25;0
+Orientaçao;60 anos ou mais;Masculino;MESTRADO COMPLETO;2;2;1;2;0
+Orientaçao;60 anos ou mais;Masculino;Não Informado;318;254;166;316;0
+Orientaçao;60 anos ou mais;Masculino;SEM FORMAÇÃO;33;23;15;33;0
+Orientaçao;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;32;31;1;32;0
+Orientaçao;Até 19 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;29;25;1;29;0
+Orientaçao;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;180;151;39;177;0
+Orientaçao;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;110;99;7;108;0
+Orientaçao;Até 19 anos;Feminino;ENSINO SUPERIOR COMPLETO;29;22;4;29;0
+Orientaçao;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;83;65;4;77;0
+Orientaçao;Até 19 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;0;1;0
+Orientaçao;Até 19 anos;Feminino;Não Informado;290;245;26;193;0
+Orientaçao;Até 19 anos;Feminino;SEM FORMAÇÃO;3;3;0;3;0
+Orientaçao;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;24;24;2;24;0
+Orientaçao;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;27;26;5;27;0
+Orientaçao;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;171;143;46;165;0
+Orientaçao;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;107;92;8;106;0
+Orientaçao;Até 19 anos;Masculino;ENSINO SUPERIOR COMPLETO;6;3;1;6;0
+Orientaçao;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;59;54;5;59;0
+Orientaçao;Até 19 anos;Masculino;Não Informado;221;184;26;161;0
+Orientaçao;Até 19 anos;Masculino;SEM FORMAÇÃO;2;2;1;2;0
+Palestra;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;23;18;5;19;41
+Palestra;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;10;6;0;10;15
+Palestra;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;619;402;49;239;1.147
+Palestra;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;58;36;4;50;101
+Palestra;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;179;110;12;115;316
+Palestra;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;1.608;941;36;245;3.524
+Palestra;20 a 24 anos;Feminino;ESPECIALIZAÇÃO;1;1;1;1;2
+Palestra;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;12;12;0;8;24
+Palestra;20 a 24 anos;Feminino;Não Informado;273;180;23;138;561
+Palestra;20 a 24 anos;Feminino;SEM FORMAÇÃO;21;12;0;19;45
+Palestra;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;22;17;2;21;38
+Palestra;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;22;14;2;19;44
+Palestra;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;625;373;67;252;1.057
+Palestra;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;92;57;5;67;155
+Palestra;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;140;88;17;104;240
+Palestra;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;1.520;837;37;258;3.146
+Palestra;20 a 24 anos;Masculino;ESPECIALIZAÇÃO;3;2;0;3;4
+Palestra;20 a 24 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;6;3;3;6;14
+Palestra;20 a 24 anos;Masculino;MESTRADO COMPLETO;1;1;1;1;1
+Palestra;20 a 24 anos;Masculino;Não Encontrado;13;3;0;13;19
+Palestra;20 a 24 anos;Masculino;Não Informado;422;175;21;117;684
+Palestra;20 a 24 anos;Masculino;SEM FORMAÇÃO;7;5;1;7;14
+Palestra;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;15;14;2;13;28
+Palestra;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;20;15;3;19;35
+Palestra;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;556;371;95;258;1.011
+Palestra;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;56;40;12;50;104
+Palestra;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;468;264;57;196;771
+Palestra;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;560;341;41;230;1.195
+Palestra;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;23;9;4;22;40
+Palestra;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;109;69;16;89;219
+Palestra;25 a 29 anos;Feminino;MESTRADO COMPLETO;31;13;2;29;56
+Palestra;25 a 29 anos;Feminino;Não Informado;349;197;37;151;612
+Palestra;25 a 29 anos;Feminino;SEM FORMAÇÃO;16;11;2;16;31
+Palestra;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;37;31;5;29;57
+Palestra;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;38;23;6;32;60
+Palestra;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;578;373;96;241;976
+Palestra;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;78;48;14;59;126
+Palestra;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;488;263;88;215;834
+Palestra;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;774;408;66;256;1.524
+Palestra;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;6;5;2;6;12
+Palestra;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;70;37;10;54;124
+Palestra;25 a 29 anos;Masculino;MESTRADO COMPLETO;23;11;1;21;39
+Palestra;25 a 29 anos;Masculino;Não Informado;314;170;38;141;571
+Palestra;25 a 29 anos;Masculino;SEM FORMAÇÃO;41;12;0;24;61
+Palestra;30 a 39 anos;Feminino;DOUTORADO COMPLETO;43;15;2;34;81
+Palestra;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;87;64;18;65;160
+Palestra;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;51;38;10;44;97
+Palestra;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;1.117;777;235;353;2.195
+Palestra;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;99;74;18;74;192
+Palestra;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;947;623;176;325;1.881
+Palestra;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;588;384;71;268;1.273
+Palestra;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;78;41;11;60;142
+Palestra;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;237;129;29;122;446
+Palestra;30 a 39 anos;Feminino;MESTRADO COMPLETO;88;50;10;57;158
+Palestra;30 a 39 anos;Feminino;Não Encontrado;1;1;0;1;3
+Palestra;30 a 39 anos;Feminino;Não Informado;543;324;68;210;999
+Palestra;30 a 39 anos;Feminino;SEM FORMAÇÃO;34;17;4;30;68
+Palestra;30 a 39 anos;Masculino;DOUTORADO COMPLETO;17;9;2;16;21
+Palestra;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;109;73;22;65;165
+Palestra;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;74;49;17;54;129
+Palestra;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;1.193;752;268;329;1.972
+Palestra;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;102;65;19;66;185
+Palestra;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;1.043;531;194;276;1.857
+Palestra;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;769;425;102;277;1.369
+Palestra;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;95;36;12;55;137
+Palestra;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;326;129;43;130;592
+Palestra;30 a 39 anos;Masculino;MESTRADO COMPLETO;127;47;10;60;200
+Palestra;30 a 39 anos;Masculino;Não Informado;605;327;84;201;1.083
+Palestra;30 a 39 anos;Masculino;SEM FORMAÇÃO;53;21;7;38;82
+Palestra;40 a 49 anos;Feminino;DOUTORADO COMPLETO;7;4;1;7;15
+Palestra;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;79;58;13;53;141
+Palestra;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;48;37;11;36;86
+Palestra;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;820;540;184;302;1.580
+Palestra;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;77;62;16;49;155
+Palestra;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;623;397;116;257;1.198
+Palestra;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;228;132;31;138;441
+Palestra;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;25;20;2;21;55
+Palestra;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;167;102;25;90;309
+Palestra;40 a 49 anos;Feminino;MESTRADO COMPLETO;40;20;6;31;80
+Palestra;40 a 49 anos;Feminino;Não Informado;386;225;63;179;665
+Palestra;40 a 49 anos;Feminino;SEM FORMAÇÃO;12;8;5;12;28
+Palestra;40 a 49 anos;Masculino;DOUTORADO COMPLETO;25;14;2;23;53
+Palestra;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;133;101;42;86;201
+Palestra;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;101;67;22;74;162
+Palestra;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;828;477;194;278;1.248
+Palestra;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;105;59;23;62;158
+Palestra;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;685;355;127;240;1.118
+Palestra;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;243;133;38;153;466
+Palestra;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;29;11;6;25;45
+Palestra;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;168;88;40;115;322
+Palestra;40 a 49 anos;Masculino;MESTRADO COMPLETO;71;29;13;50;127
+Palestra;40 a 49 anos;Masculino;Não Informado;433;231;91;163;733
+Palestra;40 a 49 anos;Masculino;SEM FORMAÇÃO;36;19;9;34;80
+Palestra;50 a 59 anos;Feminino;DOUTORADO COMPLETO;5;2;1;5;16
+Palestra;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;46;35;4;35;92
+Palestra;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;42;29;3;30;81
+Palestra;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;367;246;78;173;722
+Palestra;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;54;32;7;42;100
+Palestra;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;335;228;58;190;623
+Palestra;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;43;26;7;41;72
+Palestra;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;18;10;4;12;32
+Palestra;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;66;42;9;56;127
+Palestra;50 a 59 anos;Feminino;MESTRADO COMPLETO;9;6;4;9;21
+Palestra;50 a 59 anos;Feminino;Não Informado;152;105;28;110;272
+Palestra;50 a 59 anos;Feminino;SEM FORMAÇÃO;18;9;3;16;38
+Palestra;50 a 59 anos;Masculino;DOUTORADO COMPLETO;17;5;0;17;23
+Palestra;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;82;62;18;53;143
+Palestra;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;47;36;11;30;74
+Palestra;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;426;247;85;193;628
+Palestra;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;27;21;8;21;46
+Palestra;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;356;205;83;164;619
+Palestra;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;97;59;21;68;172
+Palestra;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;16;7;2;16;22
+Palestra;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;83;46;20;62;165
+Palestra;50 a 59 anos;Masculino;MESTRADO COMPLETO;12;7;1;12;25
+Palestra;50 a 59 anos;Masculino;Não Informado;237;127;37;100;354
+Palestra;50 a 59 anos;Masculino;SEM FORMAÇÃO;12;9;4;11;20
+Palestra;60 anos ou mais;Feminino;DOUTORADO COMPLETO;2;2;0;2;5
+Palestra;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;23;14;1;11;48
+Palestra;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;29;18;3;20;52
+Palestra;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;167;87;8;58;310
+Palestra;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;14;10;2;8;27
+Palestra;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;149;91;13;87;261
+Palestra;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;14;10;2;11;30
+Palestra;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;6;5;3;5;13
+Palestra;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;24;13;1;20;46
+Palestra;60 anos ou mais;Feminino;MESTRADO COMPLETO;6;5;1;6;15
+Palestra;60 anos ou mais;Feminino;Não Informado;63;39;12;49;110
+Palestra;60 anos ou mais;Feminino;SEM FORMAÇÃO;10;6;2;10;21
+Palestra;60 anos ou mais;Masculino;DOUTORADO COMPLETO;4;4;1;4;8
+Palestra;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;29;17;7;27;52
+Palestra;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;22;16;3;19;39
+Palestra;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;162;96;32;90;238
+Palestra;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;17;7;3;17;20
+Palestra;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;230;117;39;103;314
+Palestra;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;54;24;8;35;81
+Palestra;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;25;5;5;15;23
+Palestra;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;50;24;3;44;102
+Palestra;60 anos ou mais;Masculino;MESTRADO COMPLETO;6;4;2;6;20
+Palestra;60 anos ou mais;Masculino;Não Informado;158;68;29;79;249
+Palestra;60 anos ou mais;Masculino;SEM FORMAÇÃO;8;5;1;8;20
+Palestra;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;7;6;2;6;14
+Palestra;Até 19 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;16;13;0;12;22
+Palestra;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;168;108;6;106;301
+Palestra;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;105;74;3;61;237
+Palestra;Até 19 anos;Feminino;ENSINO SUPERIOR COMPLETO;21;9;0;21;37
+Palestra;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;472;297;1;93;1.059
+Palestra;Até 19 anos;Feminino;ESPECIALIZAÇÃO;1;1;0;1;2
+Palestra;Até 19 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;0;1;2
+Palestra;Até 19 anos;Feminino;Não Encontrado;1;1;0;1;2
+Palestra;Até 19 anos;Feminino;Não Informado;74;51;3;56;132
+Palestra;Até 19 anos;Feminino;SEM FORMAÇÃO;1;1;0;1;1
+Palestra;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;14;10;1;8;33
+Palestra;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;29;21;0;17;31
+Palestra;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;162;103;14;93;251
+Palestra;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;109;77;2;65;220
+Palestra;Até 19 anos;Masculino;ENSINO SUPERIOR COMPLETO;12;9;1;12;22
+Palestra;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;421;250;1;102;920
+Palestra;Até 19 anos;Masculino;ESPECIALIZAÇÃO;1;1;0;1;1
+Palestra;Até 19 anos;Masculino;Não Informado;98;52;6;51;175
+Palestra;Até 19 anos;Masculino;SEM FORMAÇÃO;2;2;0;2;1
+Palestra;Não Informado;Não Encontrado;Não se Aplica;20;1;0;1;218
+Rodada;20 a 24 anos;Feminino;Não Informado;2;2;2;1;0
+Rodada;20 a 24 anos;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Rodada;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;1;1;1;1;0
+Rodada;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;1;1;1;1;0
+Rodada;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;2;1;1;2;0
+Rodada;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;3;2;2;3;0
+Rodada;25 a 29 anos;Feminino;Não Informado;1;1;1;1;0
+Rodada;25 a 29 anos;Feminino;SEM FORMAÇÃO;1;1;1;1;0
+Rodada;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;3;3;3;2;0
+Rodada;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;6;3;3;3;0
+Rodada;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;3;3;3;2;0
+Rodada;25 a 29 anos;Masculino;Não Informado;4;4;4;2;0
+Rodada;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;7;7;7;3;0
+Rodada;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;6;5;6;3;0
+Rodada;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;3;3;3;2;0
+Rodada;30 a 39 anos;Feminino;Não Informado;5;4;4;1;0
+Rodada;30 a 39 anos;Feminino;SEM FORMAÇÃO;4;4;3;3;0
+Rodada;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;27;16;17;6;0
+Rodada;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Rodada;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;5;5;5;3;0
+Rodada;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;4;4;4;2;0
+Rodada;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;2;1;1;2;0
+Rodada;30 a 39 anos;Masculino;Não Informado;12;12;12;2;0
+Rodada;30 a 39 anos;Masculino;SEM FORMAÇÃO;1;1;1;1;0
+Rodada;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Rodada;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;4;4;4;3;0
+Rodada;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;1;1;1;1;0
+Rodada;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;8;7;7;4;0
+Rodada;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;2;2;2;2;0
+Rodada;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;2;2;3;0
+Rodada;40 a 49 anos;Feminino;Não Informado;9;9;9;2;0
+Rodada;40 a 49 anos;Feminino;SEM FORMAÇÃO;5;5;5;2;0
+Rodada;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Rodada;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;23;23;23;3;0
+Rodada;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;2;2;2;1;0
+Rodada;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;7;7;7;3;0
+Rodada;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;5;5;5;3;0
+Rodada;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;0
+Rodada;40 a 49 anos;Masculino;Não Informado;28;28;26;2;0
+Rodada;40 a 49 anos;Masculino;SEM FORMAÇÃO;1;1;1;1;0
+Rodada;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Rodada;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Rodada;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;6;6;6;4;0
+Rodada;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;2;2;2;2;0
+Rodada;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;1;1;1;1;0
+Rodada;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;0
+Rodada;50 a 59 anos;Feminino;Não Informado;11;11;10;2;0
+Rodada;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Rodada;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;1;1;1;1;0
+Rodada;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;17;17;17;3;0
+Rodada;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;12;12;12;2;0
+Rodada;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;4;3;3;3;0
+Rodada;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;2;2;2;2;0
+Rodada;50 a 59 anos;Masculino;Não Informado;15;15;15;2;0
+Rodada;50 a 59 anos;Masculino;SEM FORMAÇÃO;1;1;1;1;0
+Rodada;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;4;4;4;2;0
+Rodada;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;2;2;2;1;0
+Rodada;60 anos ou mais;Feminino;Não Informado;1;1;1;1;0
+Rodada;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;1;1;1;1;0
+Rodada;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;8;8;8;3;0
+Rodada;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;2;2;2;2;0
+Rodada;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;1;1;1;1;0
+Rodada;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;1;1;1;1;0
+Rodada;60 anos ou mais;Masculino;Não Informado;11;10;10;2;0
+Seminário;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;26;19;6;9;103
+Seminário;20 a 24 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;9;7;1;4;16
+Seminário;20 a 24 anos;Feminino;ENSINO MÉDIO COMPLETO;382;298;56;41;1.466
+Seminário;20 a 24 anos;Feminino;ENSINO MÉDIO INCOMPLETO;50;35;5;10;148
+Seminário;20 a 24 anos;Feminino;ENSINO SUPERIOR COMPLETO;169;121;16;23;629
+Seminário;20 a 24 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;552;423;40;42;2.051
+Seminário;20 a 24 anos;Feminino;ESPECIALIZAÇÃO;2;2;0;2;5
+Seminário;20 a 24 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;3;0;2;18
+Seminário;20 a 24 anos;Feminino;Não Informado;288;254;15;31;1.604
+Seminário;20 a 24 anos;Feminino;SEM FORMAÇÃO;6;6;0;3;30
+Seminário;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;27;20;4;8;79
+Seminário;20 a 24 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;8;7;1;4;50
+Seminário;20 a 24 anos;Masculino;ENSINO MÉDIO COMPLETO;471;358;52;38;2.028
+Seminário;20 a 24 anos;Masculino;ENSINO MÉDIO INCOMPLETO;76;54;8;14;282
+Seminário;20 a 24 anos;Masculino;ENSINO SUPERIOR COMPLETO;149;117;23;33;699
+Seminário;20 a 24 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;585;436;36;39;2.426
+Seminário;20 a 24 anos;Masculino;ESPECIALIZAÇÃO;2;2;0;2;4
+Seminário;20 a 24 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;9;7;0;7;33
+Seminário;20 a 24 anos;Masculino;MESTRADO COMPLETO;2;1;1;2;4
+Seminário;20 a 24 anos;Masculino;Não Informado;240;219;25;26;1.237
+Seminário;20 a 24 anos;Masculino;SEM FORMAÇÃO;8;6;2;5;43
+Seminário;20 a 24 anos;Não Informado;ENSINO MÉDIO COMPLETO;1;1;0;1;6
+Seminário;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;35;27;3;13;141
+Seminário;25 a 29 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;9;8;2;6;27
+Seminário;25 a 29 anos;Feminino;ENSINO MÉDIO COMPLETO;422;325;63;46;1.770
+Seminário;25 a 29 anos;Feminino;ENSINO MÉDIO INCOMPLETO;38;32;0;13;143
+Seminário;25 a 29 anos;Feminino;ENSINO SUPERIOR COMPLETO;369;286;65;44;1.536
+Seminário;25 a 29 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;288;246;29;43;1.241
+Seminário;25 a 29 anos;Feminino;ESPECIALIZAÇÃO;11;7;1;8;33
+Seminário;25 a 29 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;80;61;21;27;373
+Seminário;25 a 29 anos;Feminino;MESTRADO COMPLETO;11;7;0;8;60
+Seminário;25 a 29 anos;Feminino;Não Informado;245;230;34;29;1.580
+Seminário;25 a 29 anos;Feminino;SEM FORMAÇÃO;14;12;3;10;84
+Seminário;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;33;25;6;12;169
+Seminário;25 a 29 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;27;21;6;14;141
+Seminário;25 a 29 anos;Masculino;ENSINO MÉDIO COMPLETO;466;363;92;41;2.119
+Seminário;25 a 29 anos;Masculino;ENSINO MÉDIO INCOMPLETO;65;46;9;15;248
+Seminário;25 a 29 anos;Masculino;ENSINO SUPERIOR COMPLETO;378;273;73;43;1.924
+Seminário;25 a 29 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;420;314;80;44;1.897
+Seminário;25 a 29 anos;Masculino;ESPECIALIZAÇÃO;5;5;2;3;26
+Seminário;25 a 29 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;53;40;9;19;271
+Seminário;25 a 29 anos;Masculino;MESTRADO COMPLETO;6;6;3;6;47
+Seminário;25 a 29 anos;Masculino;Não Informado;224;203;47;32;1.215
+Seminário;25 a 29 anos;Masculino;SEM FORMAÇÃO;17;13;6;10;74
+Seminário;25 a 29 anos;Não Informado;ENSINO SUPERIOR INCOMPLETO;1;1;0;1;6
+Seminário;30 a 39 anos;Feminino;DOUTORADO COMPLETO;15;11;1;14;98
+Seminário;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;46;41;12;20;219
+Seminário;30 a 39 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;34;28;4;12;129
+Seminário;30 a 39 anos;Feminino;ENSINO MÉDIO COMPLETO;756;630;164;56;3.662
+Seminário;30 a 39 anos;Feminino;ENSINO MÉDIO INCOMPLETO;61;50;9;19;326
+Seminário;30 a 39 anos;Feminino;ENSINO SUPERIOR COMPLETO;910;719;172;56;3.956
+Seminário;30 a 39 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;313;250;46;49;1.347
+Seminário;30 a 39 anos;Feminino;ESPECIALIZAÇÃO;45;34;7;20;215
+Seminário;30 a 39 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;199;150;32;38;1.036
+Seminário;30 a 39 anos;Feminino;MESTRADO COMPLETO;43;34;8;20;220
+Seminário;30 a 39 anos;Feminino;Não Informado;520;476;79;44;3.126
+Seminário;30 a 39 anos;Feminino;SEM FORMAÇÃO;16;12;5;12;75
+Seminário;30 a 39 anos;Masculino;DOUTORADO COMPLETO;14;12;2;7;63
+Seminário;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;91;76;18;19;448
+Seminário;30 a 39 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;73;57;13;15;287
+Seminário;30 a 39 anos;Masculino;ENSINO MÉDIO COMPLETO;940;762;221;48;4.471
+Seminário;30 a 39 anos;Masculino;ENSINO MÉDIO INCOMPLETO;81;69;12;16;274
+Seminário;30 a 39 anos;Masculino;ENSINO SUPERIOR COMPLETO;869;669;199;50;4.325
+Seminário;30 a 39 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;500;390;100;47;2.399
+Seminário;30 a 39 anos;Masculino;ESPECIALIZAÇÃO;39;27;9;15;207
+Seminário;30 a 39 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;176;135;40;35;994
+Seminário;30 a 39 anos;Masculino;MESTRADO COMPLETO;57;40;13;22;314
+Seminário;30 a 39 anos;Masculino;Não Informado;405;360;96;45;2.286
+Seminário;30 a 39 anos;Masculino;SEM FORMAÇÃO;24;22;11;12;160
+Seminário;30 a 39 anos;Não Informado;Não Informado;2;2;0;1;12
+Seminário;40 a 49 anos;Feminino;DOUTORADO COMPLETO;9;7;3;8;68
+Seminário;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;51;45;8;15;246
+Seminário;40 a 49 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;33;31;4;12;131
+Seminário;40 a 49 anos;Feminino;ENSINO MÉDIO COMPLETO;444;364;79;52;1.978
+Seminário;40 a 49 anos;Feminino;ENSINO MÉDIO INCOMPLETO;48;44;7;19;215
+Seminário;40 a 49 anos;Feminino;ENSINO SUPERIOR COMPLETO;493;378;95;60;2.418
+Seminário;40 a 49 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;125;94;22;35;544
+Seminário;40 a 49 anos;Feminino;ESPECIALIZAÇÃO;33;22;6;21;184
+Seminário;40 a 49 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;139;99;24;31;648
+Seminário;40 a 49 anos;Feminino;MESTRADO COMPLETO;31;24;4;18;158
+Seminário;40 a 49 anos;Feminino;Não Informado;263;231;40;44;1.718
+Seminário;40 a 49 anos;Feminino;SEM FORMAÇÃO;9;9;2;9;58
+Seminário;40 a 49 anos;Masculino;DOUTORADO COMPLETO;7;6;1;6;45
+Seminário;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;99;83;33;21;401
+Seminário;40 a 49 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;70;61;17;19;316
+Seminário;40 a 49 anos;Masculino;ENSINO MÉDIO COMPLETO;631;505;161;44;2.969
+Seminário;40 a 49 anos;Masculino;ENSINO MÉDIO INCOMPLETO;66;52;18;12;221
+Seminário;40 a 49 anos;Masculino;ENSINO SUPERIOR COMPLETO;546;416;127;46;2.790
+Seminário;40 a 49 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;132;110;37;31;682
+Seminário;40 a 49 anos;Masculino;ESPECIALIZAÇÃO;22;18;6;14;131
+Seminário;40 a 49 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;142;90;32;30;799
+Seminário;40 a 49 anos;Masculino;MESTRADO COMPLETO;35;26;9;17;223
+Seminário;40 a 49 anos;Masculino;Não Informado;239;200;51;39;1.191
+Seminário;40 a 49 anos;Masculino;SEM FORMAÇÃO;22;13;7;14;116
+Seminário;50 a 59 anos;Feminino;DOUTORADO COMPLETO;9;7;0;8;43
+Seminário;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;24;23;2;11;89
+Seminário;50 a 59 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;27;26;2;13;94
+Seminário;50 a 59 anos;Feminino;ENSINO MÉDIO COMPLETO;224;188;42;41;1.027
+Seminário;50 a 59 anos;Feminino;ENSINO MÉDIO INCOMPLETO;28;25;2;13;109
+Seminário;50 a 59 anos;Feminino;ENSINO SUPERIOR COMPLETO;293;231;49;44;1.279
+Seminário;50 a 59 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;28;25;10;17;129
+Seminário;50 a 59 anos;Feminino;ESPECIALIZAÇÃO;15;11;2;9;58
+Seminário;50 a 59 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;57;41;9;24;270
+Seminário;50 a 59 anos;Feminino;MESTRADO COMPLETO;11;7;3;9;70
+Seminário;50 a 59 anos;Feminino;Não Informado;131;121;20;33;888
+Seminário;50 a 59 anos;Feminino;SEM FORMAÇÃO;5;5;2;4;24
+Seminário;50 a 59 anos;Masculino;DOUTORADO COMPLETO;7;6;1;5;35
+Seminário;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;53;50;12;13;217
+Seminário;50 a 59 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;37;30;10;17;134
+Seminário;50 a 59 anos;Masculino;ENSINO MÉDIO COMPLETO;337;266;66;41;1.565
+Seminário;50 a 59 anos;Masculino;ENSINO MÉDIO INCOMPLETO;34;30;7;12;134
+Seminário;50 a 59 anos;Masculino;ENSINO SUPERIOR COMPLETO;341;264;68;33;1.523
+Seminário;50 a 59 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;63;53;16;22;381
+Seminário;50 a 59 anos;Masculino;ESPECIALIZAÇÃO;9;8;2;8;35
+Seminário;50 a 59 anos;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;53;37;10;25;301
+Seminário;50 a 59 anos;Masculino;MESTRADO COMPLETO;17;12;2;10;119
+Seminário;50 a 59 anos;Masculino;Não Informado;139;116;30;28;732
+Seminário;50 a 59 anos;Masculino;SEM FORMAÇÃO;10;10;2;9;41
+Seminário;60 anos ou mais;Feminino;DOUTORADO COMPLETO;4;3;0;4;8
+Seminário;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL COMPLETO;9;9;1;6;23
+Seminário;60 anos ou mais;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;29;22;1;8;67
+Seminário;60 anos ou mais;Feminino;ENSINO MÉDIO COMPLETO;122;94;18;28;464
+Seminário;60 anos ou mais;Feminino;ENSINO MÉDIO INCOMPLETO;3;3;0;2;5
+Seminário;60 anos ou mais;Feminino;ENSINO SUPERIOR COMPLETO;128;105;13;37;497
+Seminário;60 anos ou mais;Feminino;ENSINO SUPERIOR INCOMPLETO;7;6;0;6;39
+Seminário;60 anos ou mais;Feminino;ESPECIALIZAÇÃO;7;4;3;6;50
+Seminário;60 anos ou mais;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;14;12;2;11;85
+Seminário;60 anos ou mais;Feminino;MESTRADO COMPLETO;8;7;0;8;44
+Seminário;60 anos ou mais;Feminino;Não Informado;60;55;6;20;359
+Seminário;60 anos ou mais;Feminino;SEM FORMAÇÃO;6;5;0;6;40
+Seminário;60 anos ou mais;Masculino;DOUTORADO COMPLETO;7;5;2;7;48
+Seminário;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL COMPLETO;18;17;7;10;71
+Seminário;60 anos ou mais;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;24;23;2;11;109
+Seminário;60 anos ou mais;Masculino;ENSINO MÉDIO COMPLETO;138;114;22;30;503
+Seminário;60 anos ou mais;Masculino;ENSINO MÉDIO INCOMPLETO;22;18;5;14;92
+Seminário;60 anos ou mais;Masculino;ENSINO SUPERIOR COMPLETO;199;169;31;32;815
+Seminário;60 anos ou mais;Masculino;ENSINO SUPERIOR INCOMPLETO;30;26;7;16;157
+Seminário;60 anos ou mais;Masculino;ESPECIALIZAÇÃO;7;7;1;5;42
+Seminário;60 anos ou mais;Masculino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;31;28;6;14;132
+Seminário;60 anos ou mais;Masculino;MESTRADO COMPLETO;5;2;2;5;33
+Seminário;60 anos ou mais;Masculino;Não Informado;74;62;11;27;376
+Seminário;60 anos ou mais;Masculino;SEM FORMAÇÃO;6;5;1;3;13
+Seminário;Até 19 anos;Feminino;ENSINO FUNDAMENTAL COMPLETO;22;20;2;5;56
+Seminário;Até 19 anos;Feminino;ENSINO FUNDAMENTAL INCOMPLETO;68;51;1;8;127
+Seminário;Até 19 anos;Feminino;ENSINO MÉDIO COMPLETO;124;90;8;12;377
+Seminário;Até 19 anos;Feminino;ENSINO MÉDIO INCOMPLETO;97;84;1;13;246
+Seminário;Até 19 anos;Feminino;ENSINO SUPERIOR COMPLETO;12;9;2;7;47
+Seminário;Até 19 anos;Feminino;ENSINO SUPERIOR INCOMPLETO;127;98;4;16;415
+Seminário;Até 19 anos;Feminino;ESPECIALIZAÇÃO / PÓS-GRADUAÇÃO;3;1;0;3;5
+Seminário;Até 19 anos;Feminino;Não Informado;111;105;3;15;670
+Seminário;Até 19 anos;Feminino;SEM FORMAÇÃO;1;1;0;1;2
+Seminário;Até 19 anos;Masculino;ENSINO FUNDAMENTAL COMPLETO;29;25;2;8;109
+Seminário;Até 19 anos;Masculino;ENSINO FUNDAMENTAL INCOMPLETO;95;73;1;8;207
+Seminário;Até 19 anos;Masculino;ENSINO MÉDIO COMPLETO;132;105;15;22;448
+Seminário;Até 19 anos;Masculino;ENSINO MÉDIO INCOMPLETO;142;117;4;12;448
+Seminário;Até 19 anos;Masculino;ENSINO SUPERIOR COMPLETO;6;5;1;4;21
+Seminário;Até 19 anos;Masculino;ENSINO SUPERIOR INCOMPLETO;110;84;2;14;394
+Seminário;Até 19 anos;Masculino;ESPECIALIZAÇÃO;2;1;0;2;14
+Seminário;Até 19 anos;Masculino;Não Informado;105;98;10;16;631
+Seminário;Até 19 anos;Masculino;SEM FORMAÇÃO;5;4;0;3;8
+Seminário;Não Informado;Não Encontrado;Não Encontrado;1;1;0;1;12
